@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Abdullah Yasser</h1>
-<h3 align="center">A student in CIS || MU</h3>
+<h3 align="center">A Flutter developer || A Student in FCIS || MU</h3>
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
